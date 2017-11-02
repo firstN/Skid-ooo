@@ -2,6 +2,8 @@ shid-ooo
 
 Дорий День.
 
+Посилання Github: https://github.com/firstN/Skid-ooo
+
 Виклав данні завдання на хостінгу firebase.
 
 посилання https://scid-ooo.firebaseapp.com/#/test2
